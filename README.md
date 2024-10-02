@@ -46,3 +46,6 @@ cd zomato-data-analysis
 ## Usage
 Open the Jupyter Notebook parta.ipynb to explore the Zomato data and follow along with the analysis steps.
 Open the Jupyter Notebook partb.ipynb to explore the Linear Regression and Classification.
+
+## Confusion Matrix
+![alt text](./output.png)
